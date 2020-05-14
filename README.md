@@ -1,6 +1,6 @@
 This project allows you to enter a search term to load images from the unsplash API.
 
-![Image of Pics App](https://ibb.co/h9Vv6hS)
+![Image of Pics App](https://i.ibb.co/vqk8FgS/Pics-App.png)
 
 ## Available Scripts
 
